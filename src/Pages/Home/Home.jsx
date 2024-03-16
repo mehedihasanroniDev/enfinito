@@ -12,7 +12,7 @@ const Home = () => {
 
         <HomeBanenr/>
 
-        {/* <ServicesSlider/> */}
+        <ServicesSlider/>
 
         <ChooseUs/>
         <Testimonials/>
