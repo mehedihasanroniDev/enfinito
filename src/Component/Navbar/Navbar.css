@@ -1,0 +1,16 @@
+.active{
+    border-bottom: 3px solid #2056df91;
+    padding-bottom: 29px;
+}
+@media (max-width: 768px) {
+    .active {
+        padding-bottom: 11px;
+    }
+}
+.NavbarScrollStyle{
+    background-color: hsla(0, 0%, 100%, .8);
+    box-shadow: 0 0.25rem 0.625rem 0 rgba(0,0,0,.06);
+    -webkit-backdrop-filter: blur(8px);
+    backdrop-filter: blur(8px);
+    color: #393B3D;
+}
