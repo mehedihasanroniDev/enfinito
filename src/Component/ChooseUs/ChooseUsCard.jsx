@@ -1,7 +1,7 @@
 
 const ChooseUsCard = ({title, details, Icon}) => {
     return (
-        <div data-aos="fade-left" className="flex  items-center  relative ">
+        <div data-aos="fade-up" className="flex  items-center  relative ">
 
             <div className="text-[#2157E2] text-[80px] border2 border[#2157E2] ring-8 ring-[#2157E2] p-3 rounded-full w-fit bg-white absolute left-0 ">
                 <Icon/>
