@@ -14,7 +14,7 @@ const AboutUs = () => {
 
             <div className="py-6 flex flex-col items-center justify-center">
 
-                <div data-aos="fade-left" className="border-2 border-[#2055DF] p-3 flex justify-between max-w-2xl rounded-lg items-center">
+                <div data-aos="fade-up" className="border-2 border-[#2055DF] p-3 flex justify-between max-w-2xl rounded-lg items-center">
                     <div >
                         <h1 className="text-3xl font-bold text-gray-700">Getpicked</h1>
                         <p className="text-xl font-semibold text-gray-600 mt-2">
@@ -24,9 +24,9 @@ const AboutUs = () => {
                     <h1 className="text-3xl font-bold">Getp<span className="text-[#06FA74] font-extrabold">!</span>cked</h1>
                 </div>
 
-                <div data-aos="fade-left" className="border-l-4 border-dashed h-[5rem] border-[#2055DF] "></div>
+                <div data-aos="fade-up" className="border-l-4 border-dashed h-[5rem] border-[#2055DF] "></div>
 
-                <div data-aos="fade-right"  className="border-2 border-[#2055DF] bg-[#2055DF] p-3 flex justify-between max-w-2xl rounded-lg items-center shadow-md gap-4">
+                <div data-aos="fade-down"  className="border-2 border-[#2055DF] bg-[#2055DF] p-3 flex justify-between max-w-2xl rounded-lg items-center shadow-md gap-4">
                     <div >
                         <h1 className="text-3xl font-bold text-white">Enfinito</h1>
                         <p className="text-xl font-semibold text-white mt-2">
